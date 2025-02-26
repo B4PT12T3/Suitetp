@@ -8,8 +8,6 @@ Une fois le compte créé, on peut accéder à la création de site. Il faut ent
 Lorsque cela est fait, il faut donner le nom de l'entreprise et l'emplacement. Après ça, la création se lance.
 Et le site nous propose un site que l'on peut redesign par la suite en changeant les images, les couleurs, l'emplacement des sections .bref, un CMS classique
 
-[Lien vers photo](imgs/Capture_decran_2025-02-24_a_16.56.07.png)
-
 ## 2. Création d'un site avec Zoho
 
 payant
@@ -24,7 +22,10 @@ Après création d'un compte, On arrive sur une interface très simple d'utilisa
 
 Après ça comme les autres, on peut choisir de concerver la proposition du site ou de remanier le site par nous mêmes
 
-##5. Création d'un site avec Weblium
+[Annexe 1](imgs/Capture_decran_2025-02-24_a_16.56.07.png)
+[Annexe 2](imgs/Capture_decran_2025-02-24_a_16.53.29.png)
+
+## 5. Création d'un site avec Weblium
 
 Ce site est un peu différent, car il ne fonctionne pas sur une IA mais plutôt sur des templates pré fait
 
